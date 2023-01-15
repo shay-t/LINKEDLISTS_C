@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1612277150 source:d:\tp\complexite\tp3\liste.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	"liste.h"
+
+1611346804 d:\tp\complexite\tp3\liste.h
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+
+1611355978 source:d:\tp\complexite\tp3\personne.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	"personne.h"
+
+1611356017 d:\tp\complexite\tp3\personne.h
+
+1612277723 source:d:\tp\complexite\tp3\listepersonne.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	"personne.h"
+	"liste.h"
+
